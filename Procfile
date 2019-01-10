@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/EK-1.0-SNAPSHOT.jar
